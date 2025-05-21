@@ -1,3 +1,5 @@
 Text added to file2
 Python
 GCP
+AWS
+Azure
